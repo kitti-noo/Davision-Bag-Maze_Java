@@ -25,6 +25,7 @@ public class MazeSearcher {
 
   private boolean explore(Maze maze, int x, int y, ArrayList<Coord> path) {
     // Students: put your code here
+    //6135512003
 
     if (!maze.isValidLoc(x, y)  // check (x,y) not inside the maze 
      || maze.isWall(x, y)       // check (x,y) is wall 
