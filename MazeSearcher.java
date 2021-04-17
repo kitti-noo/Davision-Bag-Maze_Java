@@ -51,9 +51,7 @@ public class MazeSearcher {
       else
         return false;
     }
-
     return false;
-
   } // end of explore()
 
   // Students: you can add other functions if you wish
